@@ -1,0 +1,6 @@
+This is a bunch of changes
+
+To this file just
+
+
+to see how to staging check works
